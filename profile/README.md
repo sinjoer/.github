@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.sinjoer.com/" target="blank"><img src="https://user-images.githubusercontent.com/6092023/216758805-9afa8505-a9a3-40e2-b220-07430e28ca9e.png" width="400" height="200"></a>
+  <a href="https://www.sinjoer.com/" target="blank"><img src="https://user-images.githubusercontent.com/6092023/218234388-2d933195-59c5-46eb-9d54-eeadd4fe8c9c.png" width="400" height="200"></a>
 </p>
  <p align="center">젊은 세대에서 사용하는 <a href="https://www.sinjoer.com/" target="_blank">신조어</a> 트렌드를 제공하는 커뮤니티 서비스.</p>
 
